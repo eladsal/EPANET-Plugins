@@ -3,6 +3,9 @@
 # Email: selad@optiwater.com
 # License: MIT
 
+# This plugin works with EPANET MTP4r2:
+# https://github.com/USEPA/SWMM-EPANET_User_Interface/releases/tag/MTP4r2
+
 import sys
 import time
 
